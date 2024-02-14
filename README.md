@@ -1,6 +1,6 @@
-# DevBlog - A Personal Blog Website
+# Simple-Personal Blog Website
 
-DevBlog is a completely responsive personal blog website that is compatible with all mobile devices, has **Dark and light themes**, and is built using HTML, CSS, and JavaScript.
+This is a completely responsive personal blog website that is compatible with all mobile devices, has **Dark and light themes**, and is built using HTML, CSS, and JavaScript.
 
 ## Prerequisites
 
